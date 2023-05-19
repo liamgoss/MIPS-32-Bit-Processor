@@ -1,0 +1,12 @@
+*.bak
+*.out
+*.o
+*.vcd
+*.
+*.pptx
+*.pdf
+*.wlf
+*.zip
+.DS_Store
+*.mti
+*.mpf
